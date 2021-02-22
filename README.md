@@ -1,4 +1,5 @@
 ### Hi there 👋
+Experienced hotel professional mainly in the Front Office, taking on additional roles such as a tour & activities presenter. 
 
 <!--
 **Rsiow/Rsiow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
