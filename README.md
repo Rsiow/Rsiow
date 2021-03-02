@@ -1,5 +1,5 @@
 ### Hi there 👋
-Experienced hotel professional | graduate of the Jr. Web Developer program by Generation Australia. Making the switch to becoming a Junior Developer.
+Recently completed the Jr. Web Developer program by Generation Australia. Experienced hotelier making the switch to becoming a Junior Developer.
 
 <!--
 **Rsiow/Rsiow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
